@@ -1,5 +1,5 @@
 <div align="center">
-  <strong><h1>🕜 <a href="https://euphonious-centaur-dc5a8d.netlify.app/">Clock Project</a>🕜</h1></strong>
+  <strong><h1>🕜 <a href="https://github.com/YounesseELH/Javascript-Project/tree/main/Clock">Clock Project</a>🕜</h1></strong>
 </div>
 
 ## 🎦 Demo : 
